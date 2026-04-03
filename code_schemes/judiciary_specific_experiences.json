@@ -4,6 +4,86 @@
     "Version": "0.0.0.1",
     "Codes": [
         {
+            "CodeID": "code-53715d58",
+            "DisplayText": "digitization",
+            "CodeType": "Normal",
+            "NumericValue": 1,
+            "StringValue": "digitization",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-6437dfab",
+            "DisplayText": "fair judgement",
+            "CodeType": "Normal",
+            "NumericValue": 2,
+            "StringValue": "fair_judgement",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-5e4b254c",
+            "DisplayText": "accessibility",
+            "CodeType": "Normal",
+            "NumericValue": 3,
+            "StringValue": "accessibility",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-654044ec",
+            "DisplayText": "unfair trials",
+            "CodeType": "Normal",
+            "NumericValue": 4,
+            "StringValue": "unfair_trials",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-09ae4136",
+            "DisplayText": "harassment",
+            "CodeType": "Normal",
+            "NumericValue": 5,
+            "StringValue": "harassment",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-313907d8",
+            "DisplayText": "bribes",
+            "CodeType": "Normal",
+            "NumericValue": 6,
+            "StringValue": "bribes",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-03ba4b67",
+            "DisplayText": "delays",
+            "CodeType": "Normal",
+            "NumericValue": 7,
+            "StringValue": "delays",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-969ce095",
+            "DisplayText": "poor communication",
+            "CodeType": "Normal",
+            "NumericValue": 8,
+            "StringValue": "poor_communication",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-cec7a506",
+            "DisplayText": "inaccessibility",
+            "CodeType": "Normal",
+            "NumericValue": 9,
+            "StringValue": "inaccessibility",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeID": "code-64ea506d",
+            "DisplayText": "slow to adapt",
+            "CodeType": "Normal",
+            "NumericValue": 10,
+            "StringValue": "slow_to_adapt",
+            "VisibleInCoda": true
+        },
+        {
             "CodeID": "code-0614b082",
             "DisplayText": "other theme",
             "CodeType": "Normal",
